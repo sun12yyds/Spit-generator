@@ -1,7 +1,13 @@
 # Spit generator
 # 使用方法
-1.安装依赖库：     pip install customtkinter
-2.运行程序：       python roast_generator.py
+1.安装依赖库：
+```
+pip install customtkinter
+```
+2.运行程序：
+```
+python roast_generator.py
+```
 # 程序特点
 1.现代界面设计
 ```
