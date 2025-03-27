@@ -35,6 +35,6 @@ Material Design 风格
 ```
 # v1.1 程序截图
 ![logo](https://github.com/sun12yyds/Spit-generator/blob/main/photo/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-27%20222459.png)
-
+![logo](https://github.com/sun12yyds/Spit-generator/blob/main/photo/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-27%20222551.png)
 
 
